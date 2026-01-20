@@ -51,8 +51,8 @@ The analysis combines **Python for data cleaning** and **Tableau for geospatial 
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard Preview](https://public.tableau.com/views/Global_Starbuck_AnalysisTOP10COUNTRIES/GlobalStarbucksStoreLocationDensityAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+##  Dashboard Preview
+https://public.tableau.com/views/Global_Starbuck_AnalysisTOP10COUNTRIES/GlobalStarbucksStoreLocationDensityAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
